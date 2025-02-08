@@ -15,7 +15,7 @@
 ## 🛠️ **Installation**
 ### **1️⃣ Clone the Repository**
 ```
-bash
-git clone https://github.com/yourrepo/tts_project.git
+git clone https://github.com/rajjyarohan10/ASL-2-Pi-TTS-Model.git
 cd tts_project
+chmod +x setup.sh
 ```
