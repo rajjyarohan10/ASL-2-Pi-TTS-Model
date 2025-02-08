@@ -18,4 +18,5 @@
 git clone https://github.com/rajjyarohan10/ASL-2-Pi-TTS-Model.git
 cd tts_project
 chmod +x setup.sh
+./setup.sh
 ```
